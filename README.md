@@ -63,6 +63,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 - Uditanshu Pandey
-- Email: uditanshupandey@example.com
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/)
-- GitHub: [GitHub Profile](https://github.com/)
+- Email: uditanshup114@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/uditanshupandey?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqqRVF%2FNpRheKgruh2Qy9aw%3D%3D)
+- GitHub: [GitHub Profile](https://github.com/UditanshuPandey)
