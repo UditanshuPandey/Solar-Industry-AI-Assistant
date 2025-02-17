@@ -164,7 +164,7 @@ with tab2:
     
     with col1:
         # Profile image placeholder (replace URL with actual image if available)
-        st.markdown('<img src="https://via.placeholder.com/150/FF9900/FFFFFF?text=UP" class="profile-image">', unsafe_allow_html=True)
+        st.markdown('<img src="https://github.com/UditanshuPandey/uditanshupandey.github.io/blob/main/imgs/Photo.png" class="profile-image">', unsafe_allow_html=True)
     
     with col2:
         st.markdown("<h2 style='color: #FF9900;'>Uditanshu Pandey</h2>", unsafe_allow_html=True)
@@ -220,11 +220,11 @@ with tab2:
     st.subheader("📬 Contact")
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.markdown('<a href="mailto:uditanshupandey@example.com" style="text-decoration: none;"><button style="background-color: #FF9900; color: white; border: none; padding: 10px; border-radius: 5px; width: 100%;">📧 Email</button></a>', unsafe_allow_html=True)
+        st.markdown('<a href="mailto:uditanshup114@gmail.com" style="text-decoration: none;"><button style="background-color: #FF9900; color: white; border: none; padding: 10px; border-radius: 5px; width: 100%;">📧 Email</button></a>', unsafe_allow_html=True)
     with col2:
-        st.markdown('<a href="https://linkedin.com/in/" style="text-decoration: none;"><button style="background-color: #0077B5; color: white; border: none; padding: 10px; border-radius: 5px; width: 100%;">👔 LinkedIn</button></a>', unsafe_allow_html=True)
+        st.markdown('<a href="linkedin.com/in/uditanshupandey" style="text-decoration: none;"><button style="background-color: #0077B5; color: white; border: none; padding: 10px; border-radius: 5px; width: 100%;">👔 LinkedIn</button></a>', unsafe_allow_html=True)
     with col3:
-        st.markdown('<a href="https://github.com/" style="text-decoration: none;"><button style="background-color: #333; color: white; border: none; padding: 10px; border-radius: 5px; width: 100%;">💻 GitHub</button></a>', unsafe_allow_html=True)
+        st.markdown('<a href="https://github.com/UditanshuPandey" style="text-decoration: none;"><button style="background-color: #333; color: white; border: none; padding: 10px; border-radius: 5px; width: 100%;">💻 GitHub</button></a>', unsafe_allow_html=True)
     
     st.markdown('</div>', unsafe_allow_html=True)
 
